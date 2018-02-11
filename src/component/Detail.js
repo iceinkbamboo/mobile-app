@@ -24,7 +24,7 @@ class Detail extends Component {
       <div className="Detail">
         <div className="detail-nav">
           <span>
-            <Link to='/about'>返回键1</Link>
+            <Link to='/about'>返回键2</Link>
           </span>
         </div>
         <div className="detail-main">
